@@ -1,0 +1,27 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Asincronismo con Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanapimentel/asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Vanessa Pimentel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johanapimentel/asincronismo/issues"
+  },
+  "homepage": "https://github.com/johanapimentel/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
