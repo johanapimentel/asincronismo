@@ -4,8 +4,11 @@
   "description": "Asincronismo con Javascript",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/index.js",
-    "callback:challenge": "node src/index.js"
+    "callback": "node src/callback/index.js",
+    "callchallenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js",
+    "prochallenge": "node src/promise/challenge.js",
+    "async": "node src/async/index.js"
   },
   "repository": {
     "type": "git",
