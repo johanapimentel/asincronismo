@@ -8,7 +8,8 @@
     "callchallenge": "node src/callback/challenge.js",
     "promise": "node src/promise/index.js",
     "prochallenge": "node src/promise/challenge.js",
-    "async": "node src/async/index.js"
+    "async": "node src/async/index.js",
+    "asynchallenge": "node src/async/challenge.js"
   },
   "repository": {
     "type": "git",
